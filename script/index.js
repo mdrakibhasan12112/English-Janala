@@ -84,7 +84,7 @@ const displayWordDetails = word => {
 
    <div>
 <h2 class="font-bold">Meaning</h2>
-<p>${word.Meaning}</p>
+<p>${word.meaning}</p>
    </div>
 
    <div>
